@@ -1,0 +1,4 @@
+interface:
+  display_name: "Narration CLI"
+  short_description: "Convert text and files to speech with the MiniMax API"
+  default_prompt: "Use $narration-cli to convert this text to an audio file."
